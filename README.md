@@ -1,2 +1,1 @@
-# CodeAlpha_Portfolio
-this a portfolio website
+<h1>This is my internship project from Code Alpha which is portfolio website</h1>

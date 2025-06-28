@@ -1495,6 +1495,9 @@ this is for dark and light mode border area */
     }
   }
 
+
+
+  /* this is responsive part code */
   @media (max-width: 768px){
     .home{
       
